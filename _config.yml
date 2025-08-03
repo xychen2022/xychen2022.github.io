@@ -26,7 +26,7 @@ author:
   name             : "Xiaoyang Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "North Carolina"
   employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
   email            : "xiaoyang_chen@med.unc.edu" 
@@ -57,10 +57,10 @@ author:
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
-  keybase          : # Username
+  keybase          : "xychen" # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Xiaoyang Chen" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
