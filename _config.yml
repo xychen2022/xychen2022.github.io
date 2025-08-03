@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiaoyang Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/his"  
+  bio              : "Postdoc"
   location         : "North Carolina"
   employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : "xychen" # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Xiaoyang Chen" # Username
+  linkedin         : "https://www.linkedin.com/in/xiaoyang-chen-133336223/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -75,6 +75,11 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+# Disable sidebar
+sidebar:
+  nav: null
+author_profile: false
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
