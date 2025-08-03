@@ -28,7 +28,7 @@ author:
   bio              : "Postdoc"
   location         : "North Carolina"
   employer         : "University of North Carolina at Chapel Hill"
-  uri              : # URL
+  uri              : "https://www.linkedin.com/in/xiaoyang-chen-133336223/"
   email            : "xiaoyang_chen@med.unc.edu" 
 
   # Academic websites
@@ -60,7 +60,7 @@ author:
   keybase          : "xychen" # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "xiaoyang-chen-133336223" # Username
+  linkedin         : # "xiaoyang-chen-133336223"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
