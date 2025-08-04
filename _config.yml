@@ -27,8 +27,8 @@ author:
   pronouns         : "He/his"  
   bio              : "Postdoc"
   location         : "North Carolina"
-  employer         : "University of North Carolina at Chapel Hill"
-  uri              : "https://www.linkedin.com/in/xiaoyang-chen-133336223/"
+  employer         : "UNC Chapel Hill"
+  uri              : # "https://www.linkedin.com/in/xiaoyang-chen-133336223/"
   email            : "xiaoyang_chen@med.unc.edu" 
 
   # Academic websites
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : https://github.com/xychen2022
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -300,7 +300,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: GMT-4 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
